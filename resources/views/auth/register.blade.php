@@ -20,6 +20,17 @@
             </div>
 
             <div class="mt-4">
+                <x-label for="role" value="{{ __('Role') }}" />
+                <select id="role" class="block mt-1 w-full" name="role" required>
+                    <option value="" disabled selected>{{ __('Choose a role') }}</option>
+                    <option value="Super Admin">{{ __('Superadmin') }}</option>
+                    <option value="User">{{ __('User') }}</option>
+                    <option value="Creator">{{ __('Creator') }}</option>
+                    <option value="Kontributor">{{ __('Kontributor') }}</option>
+                </select>
+            </div>
+
+            <div class="mt-4">
                 <x-label for="password" value="{{ __('Password') }}" />
                 <x-input id="password" class="block mt-1 w-full" type="password" name="password" required autocomplete="new-password" />
             </div>
