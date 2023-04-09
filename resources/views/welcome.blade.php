@@ -68,7 +68,7 @@
                     <div class="w-full">
                         <nav class="flex items-center justify-between navbar navbar-expand-lg">
                             <a class="mr-4 navbar-brand" href="index.html">
-                                <img src="assets/images/logobasyir.svg" alt="Logo" width="120">
+                                <img src="../assets/images/logobasyir.svg" alt="Logo" width="120">
                             </a>
                             <button class="block navbar-toggler focus:outline-none lg:hidden" type="button" data-toggle="collapse" data-target="#navbarOne" aria-controls="navbarOne" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="toggler-icon"></span>
