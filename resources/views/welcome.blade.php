@@ -11,7 +11,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!--====== Favicon Icon ======-->
-    <link rel="shortcut icon" href="assets/images/favicon.png" type="image/png">
+    <link rel="shortcut icon" href="assets/images/Main Logo.png" type="image/png">
         
     <!--====== Animate CSS ======-->
     <link rel="stylesheet" href="assets/css/animate.css">
@@ -172,7 +172,7 @@
                 <div class="w-full lg:w-2/3">
                     <div class="pb-10 text-center section-title">
                         <div class="m-auto line"></div>
-                        <h3 class="title">Clean and simple design, <span> Comes with everything you need to get started!</span></h3>
+                        <h3 class="title">Tingkatkan produktivitas anda dalam beribadah, <span> Berikut adalah keunggulan dari aplikasi basyir!</span></h3>
                     </div> <!-- section title -->
                 </div>
             </div> <!-- row -->
@@ -234,7 +234,7 @@
                     <div class="mx-4 mt-12 about-content wow fadeInLeftBig" data-wow-duration="1s" data-wow-delay="0.5s">
                         <div class="mb-4 section-title">
                             <div class="line"></div>
-                            <h3 class="title">Quick & Easy <span>to Use Tailwind Template</span></h3>
+                            <h3 class="title">Quick & Easy, <span>Instalasi dan penggunaannya pun sangat mudah</span></h3>
                         </div> <!-- section title -->
                         <p class="mb-8">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seiam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
                         <a href="javascript:void(0)" class="main-btn gradient-btn">Try it Free</a>
@@ -266,7 +266,7 @@
                     <div class="mx-4 mt-12 about-content wow fadeInLeftBig" data-wow-duration="1s" data-wow-delay="0.5s">
                         <div class="mb-4 section-title">
                             <div class="line"></div>
-                            <h3 class="title">Modern design <span> with Essential Features</span></h3>
+                            <h3 class="title">Tampilan yang menarik <span> memberikan semangat energi positif kepada anda</span></h3>
                         </div> <!-- section title -->
                         <p class="mb-8">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seiam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
                         <a href="javascript:void(0)" class="main-btn gradient-btn">Try it Free</a>
@@ -291,7 +291,7 @@
                     <div class="mx-4 mt-12 about-content wow fadeInLeftBig" data-wow-duration="1s" data-wow-delay="0.5s">
                         <div class="mb-4 section-title">
                             <div class="line"></div>
-                            <h3 class="title"><span>Crafted for</span> SaaS, App and Software Landing Page</h3>
+                            <h3 class="title"><span>Diciptakan untuk</span> meningkatkan kedisiplinan anda dalam beribadah</h3>
                         </div> <!-- section title -->
                         <p class="mb-8">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seiam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
                         <a href="javascript:void(0)" class="main-btn gradient-btn">Try it Free</a>
@@ -337,7 +337,7 @@
                         <div class="counter-content">
                             <div class="mb-8 section-title">
                                 <div class="line"></div>
-                                <h3 class="title">Cool facts <span> about this app</span></h3>
+                                <h3 class="title">Fakta-fakta menarik <span> tentang aplikasi ini</span></h3>
                             </div> <!-- section title -->
                             <p class="text">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seiam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p>
                         </div> <!-- counter content -->
