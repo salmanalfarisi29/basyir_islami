@@ -961,7 +961,7 @@ video {
 
 .text-white{
   --text-opacity: 1;
-  color: #fff;
+  color: #ffffff;
   color: rgba(255, 255, 255, var(--text-opacity));
 }
 
@@ -1223,7 +1223,7 @@ p {
 }
 
 .gradient-btn {
-  background-image: linear-gradient(to right, #fe8464 0%, #fe6e9a 50%, #fe8464 100%);
+  background-image: linear-gradient(to right, #33c8c1 0%, #119bd2 50%, #13ec75 100%);
   background-size: 200% auto;
   overflow: hidden;
 }
@@ -1277,7 +1277,7 @@ p {
   z-index: -1;
 }
 
-.single-logo {
+.single-logobasyir {
   max-width: 190px;
   padding-left: 0.75rem;
   padding-right: 0.75rem;

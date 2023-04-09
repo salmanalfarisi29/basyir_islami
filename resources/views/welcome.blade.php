@@ -100,7 +100,7 @@
                             </div> <!-- navbar collapse -->
                             
                             <div class="absolute right-0 hidden mt-2 mr-24 navbar-btn sm:inline-block lg:mt-0 lg:static lg:mr-0">
-                                <a class="main-btn gradient-btn" data-scroll-nav="0" href="#" rel="nofollow">Download Now</a>
+                                <a class="main-btn gradient-btn" data-scroll-nav="0" href="http://127.0.0.1:8000/login" rel="nofollow">Login Admin</a>
                             </div>
                         </nav> <!-- navbar -->
                     </div>
@@ -108,7 +108,7 @@
             </div> <!-- container -->
         </div> <!-- navbar area -->
         
-        <div id="home" class="header-hero" style="background-image: url(assets/images/banner-bg.svg)">
+        <div id="home" class="header-hero" style="background-image: url(assets/images/banner-bgbasyir.svg)">
             <div class="container">
                 <div class="justify-center row">
                     <div class="w-full lg:w-2/3">
@@ -123,7 +123,7 @@
                 <div class="justify-center row">
                     <div class="w-full lg:w-2/3">
                         <div class="text-center header-hero-image wow fadeIn" data-wow-duration="1.3s" data-wow-delay="1.4s">
-                            <img src="assets/images/Home Page.svg" alt="hero" style="margin-left: 300px;">
+                            <img src="assets/images/layar hp basyir.svg" alt="hero" style="margin-left: 1px;">
                         </div> <!-- header hero image -->
                     </div>
                 </div> <!-- row -->
