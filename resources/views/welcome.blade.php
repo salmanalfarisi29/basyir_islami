@@ -68,7 +68,7 @@
                     <div class="w-full">
                         <nav class="flex items-center justify-between navbar navbar-expand-lg">
                             <a class="mr-4 navbar-brand" href="index.html">
-                                <img src="../assets/images/logobasyir.svg" alt="Logo" width="120">
+                                <img src="../assets/images/logo-2.svg" alt="Logo" width="120">
                             </a>
                             <button class="block navbar-toggler focus:outline-none lg:hidden" type="button" data-toggle="collapse" data-target="#navbarOne" aria-controls="navbarOne" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="toggler-icon"></span>
@@ -134,29 +134,33 @@
     
     <!--====== HEADER PART ENDS ======-->
     
-    <!--====== BRAMD PART START ======-->
+    <!--====== SUPPORTED BY ======-->
     
     <div class="pt-24 brand-area">
         <div class="container">
             <div class="row">
                 <div class="w-full">
-                    <div class="items-center justify-center row lg:justify-between">
-                        <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
-                            <img src="assets/images/brand-1.png" alt="brand">
-                        </div> <!-- single logo -->
-                        <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.2s">
-                            <img src="assets/images/brand-2.png" alt="brand">
-                        </div> <!-- single logo -->
-                        <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.3s">
-                            <img src="assets/images/brand-3.png" alt="brand">
-                        </div> <!-- single logo -->
-                        <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.4s">
-                            <img src="assets/images/brand-4.png" alt="brand">
-                        </div> <!-- single logo -->
-                        <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                            <img src="assets/images/brand-5.png" alt="brand">
-                        </div> <!-- single logo -->
-                    </div> <!-- brand logo -->
+                    <div class="pb-10 text-center section-title">
+                        <div class="m-auto line"></div>
+                        <h3 class="title">Supported By</h3>
+                        <div class="items-center justify-center row lg:justify-between">
+                            <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
+                                <img src="assets/images/brand-1.png" alt="brand" style="width: 70px; height: auto;">
+                            </div> <!-- single logo -->
+                            <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.2s">
+                                <img src="assets/images/brand-2.png" alt="brand" style="width: 100px; height: auto;">
+                            </div> <!-- single logo -->
+                            <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.3s">
+                                <img src="assets/images/brand-3.png" alt="brand" style="width: 100px; height: auto;">
+                            </div> <!-- single logo -->
+                            <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.4s">
+                                <img src="assets/images/brand-4.png" alt="brand" style="width: 100px; height: auto;">
+                            </div> <!-- single logo -->
+                            <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
+                                <img src="assets/images/brand-5.png" alt="brand" style="width: 100px; height: auto;">
+                            </div> <!-- single logo -->
+                        </div> <!-- brand logo -->
+                    </div> <!-- section title -->
                 </div>
             </div>   <!-- row -->
         </div> <!-- container -->
@@ -172,7 +176,7 @@
                 <div class="w-full lg:w-2/3">
                     <div class="pb-10 text-center section-title">
                         <div class="m-auto line"></div>
-                        <h3 class="title">Tingkatkan produktivitas anda dalam beribadah, <span> Berikut adalah keunggulan dari aplikasi basyir!</span></h3>
+                        <h3 class="title">Tingkatkan produktivitas beribadah anda, <span> Berikut adalah keunggulan dari aplikasi basyir!</span></h3>
                     </div> <!-- section title -->
                 </div>
             </div> <!-- row -->
@@ -439,6 +443,25 @@
                         </div>
                     </div> <!-- single team -->
                 </div>
+                <div class="w-full sm:w-2/3 lg:w-1/3">
+                    <div class="mt-8 text-center single-team wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s">
+                        <div class="relative team-image">
+                            <img class="w-full" src="assets/images/team-3.png" alt="Team">
+                            <div class="team-social">
+                                <ul>
+                                    <li><a href="javascript:void(0)"><i class="lni lni-facebook-filled"></i></a></li>
+                                    <li><a href="javascript:void(0)"><i class="lni lni-twitter-filled"></i></a></li>
+                                    <li><a href="javascript:void(0)"><i class="lni lni-instagram-filled"></i></a></li>
+                                    <li><a href="javascript:void(0)"><i class="lni lni-linkedin-original"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="p-8">
+                            <h5 class="mb-1 text-xl font-bold text-gray-900">Fiona Smith</h5>
+                            <p>Business Development Manager</p>
+                        </div>
+                    </div> <!-- single team -->
+                </div>
             </div> <!-- row -->
         </div> <!-- container -->
     </section>
@@ -453,7 +476,7 @@
                 <div class="w-full lg:w-2/3">
                     <div class="pb-10 text-center section-title">
                         <div class="m-auto line"></div>
-                        <h3 class="title">Users sharing<span> their experience</span></h3>
+                        <h3 class="title">Kata mereka<span> tentang basyir</span></h3>
                     </div> <!-- section title -->
                 </div>
             </div> <!-- row -->
@@ -596,7 +619,7 @@
                 <div class="w-full lg:w-1/2">
                     <div class="pb-8 section-title">
                         <div class="line"></div>
-                        <h3 class="title"><span>Our Recent</span> Blog Posts</h3>
+                        <h3 class="title"><span>Yuk</span> baca artikel dibawah ini</h3>
                     </div> <!-- section title -->
                 </div>
             </div> <!-- row -->
@@ -671,16 +694,16 @@
                     <div class="w-full lg:w-1/2">
                         <div class="lg:mt-12 subscribe-content">
                             <h2 class="text-2xl font-bold sm:text-4xl subscribe-title">
-                                Subscribe Our Newsletter 
-                                <span class="block font-normal">get reguler updates</span>
+                                Bantu kami lebih berkembang dengan 
+                                <span class="block font-normal">mengirimkan saran dan masukkan anda</span>
                             </h2>
                         </div>
                     </div>
                     <div class="w-full lg:w-1/2">
                         <div class="mt-12 subscribe-form">
                             <form action="#" class="relative focus:outline-none">
-                                <input type="email" placeholder="Enter eamil" class="w-full py-4 pl-6 pr-40 duration-300 border-2 rounded focus:border-theme-color focus:outline-none">
-                                <button class="main-btn gradient-btn">Subscribe</button>
+                                <input type="email" placeholder="Ketikan pesan anda" class="w-full py-4 pl-6 pr-40 duration-300 border-2 rounded focus:border-theme-color focus:outline-none">
+                                <button class="main-btn gradient-btn">Kirim</button>
                             </form>
                         </div>
                     </div>
@@ -691,7 +714,7 @@
                     <div class="w-4/5 md:w-3/5 lg:w-2/6">
                         <div class="mt-12 footer-about wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
                             <a class="inline-block mb-8 logo" href="index.html">
-                                <img src="assets/images/logo.svg" alt="logo" class="w-40">
+                                <img src="assets/images/logo-2.svg" alt="logo" class="w-40">
                             </a>
                             <p class="pb-10 pr-10 leading-snug text-white">Lorem ipsum dolor sit amet consetetur sadipscing elitr, sederfs diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam.</p>
                             <ul class="flex footer-social">
@@ -743,7 +766,7 @@
                                 <li>+809272561823</li>
                                 <li>info@gmail.com</li>
                                 <li>www.yourweb.com</li>
-                                <li>123 Stree New York City , United <br> States Of America 750.</li>
+                                <li>Jl. Gegerkalong Hilir, Desa Ciwaruga <br> Politeknik Negeri Bandung.</li>
                             </ul>
                         </div> <!-- footer contact -->
                     </div>
@@ -751,8 +774,8 @@
             </div> <!-- footer widget -->
             <div class="py-8 border-t border-gray-200 footer-copyright">
                 <p class="text-white">
-                    Template by <a class="duration-300 hover:text-theme-color-2" href="https://tailwindtemplates.co" rel="nofollow" target="_blank">TailwindTemplates</a> and
-                    <a class="duration-300 hover:text-theme-color-2" href="https://uideck.com" rel="nofollow" target="_blank">UIdeck</a>
+                    Basyir - Booster Your Iman 
+                    <a class="duration-300 hover:text-theme-color-2"</a>
                 </p>
             </div> <!-- footer copyright -->
         </div> <!-- container -->
