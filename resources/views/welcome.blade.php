@@ -65,6 +65,7 @@
         <div class="navbar-area">
             <div class="container relative">
                 <div class="row">
+                    <!-- FLEX NAVBAR -->
                     <div class="w-full">
                         <nav class="flex items-center justify-between navbar navbar-expand-lg">
                             <a class="mr-4 navbar-brand" href="index.html">
@@ -94,7 +95,7 @@
                                         <a class="page-scroll" href="#team">Team</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="page-scroll" href="#blog">Blog</a>
+                                    <a class="main-btn gradient-btn" data-scroll-nav="0" href="http://127.0.0.1:8000/login" rel="nofollow">Login Admin</a>
                                     </li>
                                 </ul>
                             </div> <!-- navbar collapse -->
