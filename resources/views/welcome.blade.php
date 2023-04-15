@@ -135,7 +135,7 @@
     
     <!--====== HEADER PART ENDS ======-->
     
-    <!--====== SUPPORTED BY ======-->
+    <!--====== PERKENALAN BASYIR ======-->
     
     <div class="pt-24 brand-area">
         <div class="container">
@@ -167,9 +167,9 @@
         </div> <!-- container -->
     </div>
     
-    <!--====== BRAMD PART ENDS ======-->
+    <!--====== PERKENALAN BASYIR ENDS ======-->
     
-    <!--====== SERVICES PART START ======-->
+    <!--====== SUPPORTED BY ======-->
     
     <section id="features" class="services-area pt-120">
         <div class="container">
@@ -177,50 +177,73 @@
                 <div class="w-full lg:w-2/3">
                     <div class="pb-10 text-center section-title">
                         <div class="m-auto line"></div>
-                        <h3 class="title">Tingkatkan produktivitas beribadah anda, <span> Berikut adalah keunggulan dari aplikasi basyir!</span></h3>
+                        <h3 class="title">Supported By</h3>
                     </div> <!-- section title -->
                 </div>
-            </div> <!-- row -->
+            </div> 
             <div class="justify-center row">
+                <!-- POLBAN -->
                 <div class="w-full sm:w-2/3 lg:w-1/3">
                     <div class="single-services wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
                         <div class="services-icon">
-                            <img class="shape" src="assets/images/services-shape.svg" alt="shape">
-                            <img class="shape-1" src="assets/images/services-shape-1.svg" alt="shape">
-                            <i class="lni lni-baloon"></i>
+                            <img src="assets/images/brand-1.png" alt="brand" style="width: 70px; height: auto;">
                         </div>
                         <div class="mt-8 services-content">
-                            <h4 class="mb-8 text-xl font-bold text-gray-900">Clean</h4>
+                            <h4 class="mb-8 text-xl font-bold text-gray-900">POLITEKNIK NEGERI BANDUNG</h4>
                             <p class="mb-8">Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.</p>
-                            <a class="duration-300 hover:text-theme-color" href="javascript:void(0)">Learn More <i class="ml-2 lni lni-chevron-right"></i></a>
+                            <a class="duration-300 hover:text-theme-color" href="https://www.instagram.com/politekniknegeribandung/">Kunjungi di instagram <i class="ml-2 lni lni-chevron-right"></i></a>
                         </div>
-                    </div> <!-- single services -->
+                    </div>
                 </div>
+                <!-- JTK POLBAN -->
                 <div class="w-full sm:w-2/3 lg:w-1/3">
                     <div class="mt-8 text-center single-services wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
                         <div class="services-icon">
-                            <img class="shape" src="assets/images/services-shape.svg" alt="shape">
-                            <img class="shape-1" src="assets/images/services-shape-2.svg" alt="shape">
-                            <i class="lni lni-cog"></i>
+                            <img src="assets/images/brand-2.png" alt="brand" style="width: 97px; height: auto;">
                         </div>
                         <div class="mt-8 services-content">
-                            <h4 class="mb-8 text-xl font-bold text-gray-900">Robust</h4>
+                            <h4 class="mb-8 text-xl font-bold text-gray-900">TEKNIK KOMPUTER & INFORMATIKA POLBAN</h4>
                             <p class="mb-8">Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.</p>
-                            <a class="duration-300 hover:text-theme-color" href="javascript:void(0)">Learn More <i class="ml-2 lni lni-chevron-right"></i></a>
+                            <a class="duration-300 hover:text-theme-color" href="https://www.instagram.com/jtkpolban/">Kunjungi di instagram <i class="ml-2 lni lni-chevron-right"></i></a>
                         </div>
-                    </div> <!-- single services -->
+                    </div> 
+                <!-- ASSALAM -->
                 </div>
                 <div class="w-full sm:w-2/3 lg:w-1/3">
                     <div class="mt-8 text-center single-services wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s">
                         <div class="services-icon">
-                            <img class="shape" src="assets/images/services-shape.svg" alt="shape">
-                            <img class="shape-1" src="assets/images/services-shape-3.svg" alt="shape">
-                            <i class="lni lni-bolt-alt"></i>
+                            <img src="assets/images/brand-3.png" alt="brand" style="width: 100px; height: auto;">
                         </div>
                         <div class="mt-8 services-content">
-                            <h4 class="mb-8 text-xl font-bold text-gray-900">Powerful</h4>
+                            <h4 class="mb-8 text-xl font-bold text-gray-900">UKM ASSALAM POLBAN</h4>
                             <p class="mb-8">Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.</p>
-                            <a class="duration-300 hover:text-theme-color" href="javascript:void(0)">Learn More <i class="ml-2 lni lni-chevron-right"></i></a>
+                            <a class="duration-300 hover:text-theme-color" href="https://www.instagram.com/assalampolban/">Kunjungi di instagram <i class="ml-2 lni lni-chevron-right"></i></a>
+                        </div>
+                    </div> 
+                </div>
+                <!-- PHM DKM LH -->
+                <div class="w-full sm:w-2/3 lg:w-1/3">
+                    <div class="mt-8 text-center single-services wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s">
+                        <div class="services-icon">
+                            <img src="assets/images/brand-4.png" alt="brand" style="width: 100px; height: auto;">
+                        </div>
+                        <div class="mt-8 services-content">
+                            <h4 class="mb-8 text-xl font-bold text-gray-900">PHM DKM Luqmanul Hakim POLBAN</h4>
+                            <p class="mb-8">Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.</p>
+                            <a class="duration-300 hover:text-theme-color" href="https://www.instagram.com/masjidlhpolban/">Kunjungi di instagram <i class="ml-2 lni lni-chevron-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+                <!-- single services -->
+                <div class="w-full sm:w-2/3 lg:w-1/3">
+                    <div class="mt-8 text-center single-services wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s">
+                        <div class="services-icon">
+                            <img src="assets/images/brand-5.png" alt="brand" style="width: 88px; height: auto;">
+                        </div>
+                        <div class="mt-8 services-content">
+                            <h4 class="mb-8 text-xl font-bold text-gray-900">Ma'had Luqmanul Hakim</h4>
+                            <p class="mb-8">Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.</p>
+                            <a class="duration-300 hover:text-theme-color" href="https://www.instagram.com/mahad.lh/">Kunjungi di instagram <i class="ml-2 lni lni-chevron-right"></i></a>
                         </div>
                     </div> <!-- single services -->
                 </div>
@@ -228,17 +251,21 @@
         </div> <!-- container -->
     </section>
     
-    <!--====== SERVICES PART ENDS ======-->
+    <!--====== SUPPORTED BY ENDS ======-->
     
     <!--====== ABOUT PART START ======-->
     
     <section id="about" class="relative pt-20 about-area">
         <div class="container">
             <div class="row">
+                <div class="pb-10 text-center section-title">
+                    <div class="m-auto line"></div>
+                    <h3 class="title">Tingkatkan produktivitas beribadah anda, <span> Berikut adalah keunggulan dari aplikasi basyir!</span></h3>
+                </div> <!-- section title -->
                 <div class="w-full lg:w-1/2">
                     <div class="mx-4 mt-12 about-content wow fadeInLeftBig" data-wow-duration="1s" data-wow-delay="0.5s">
                         <div class="mb-4 section-title">
-                            <div class="line"></div>
+                            <!-- <div class="line"></div> -->
                             <h3 class="title">Quick & Easy, <span>Instalasi dan penggunaannya pun sangat mudah</span></h3>
                         </div> <!-- section title -->
                         <p class="mb-8">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seiam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
@@ -270,7 +297,7 @@
                 <div class="w-full lg:w-1/2 lg:order-last">
                     <div class="mx-4 mt-12 about-content wow fadeInLeftBig" data-wow-duration="1s" data-wow-delay="0.5s">
                         <div class="mb-4 section-title">
-                            <div class="line"></div>
+                            <!-- <div class="line"></div> -->
                             <h3 class="title">Tampilan yang menarik <span> memberikan semangat energi positif kepada anda</span></h3>
                         </div> <!-- section title -->
                         <p class="mb-8">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seiam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
@@ -295,7 +322,7 @@
                 <div class="w-full lg:w-1/2">
                     <div class="mx-4 mt-12 about-content wow fadeInLeftBig" data-wow-duration="1s" data-wow-delay="0.5s">
                         <div class="mb-4 section-title">
-                            <div class="line"></div>
+                            <!-- <div class="line"></div> -->
                             <h3 class="title"><span>Diciptakan untuk</span> meningkatkan kedisiplinan anda dalam beribadah</h3>
                         </div> <!-- section title -->
                         <p class="mb-8">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, seiam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing.</p>
@@ -401,8 +428,8 @@
                             </div>
                         </div>
                         <div class="p-8">
-                            <h5 class="mb-1 text-xl font-bold text-gray-900">Isabela Moreira</h5>
-                            <p>Founder and CEO</p>
+                            <h5 class="mb-1 text-xl font-bold text-gray-900">Bagus Nugroho</h5>
+                            <p>Leader Project</p>
                         </div>
                     </div> <!-- single team -->
                 </div>
@@ -420,8 +447,8 @@
                             </div>
                         </div>
                         <div class="p-8">
-                            <h5 class="mb-1 text-xl font-bold text-gray-900">Elon Musk</h5>
-                            <p>Sr. Software Engineer</p>
+                            <h5 class="mb-1 text-xl font-bold text-gray-900">Salman Alfarisi</h5>
+                            <p>System Analyst & Back-End Developer</p>
                         </div>
                     </div> <!-- single team -->
                 </div>
@@ -439,8 +466,8 @@
                             </div>
                         </div>
                         <div class="p-8">
-                            <h5 class="mb-1 text-xl font-bold text-gray-900">Fiona Smith</h5>
-                            <p>Business Development Manager</p>
+                            <h5 class="mb-1 text-xl font-bold text-gray-900">Reyna Nur</h5>
+                            <p>UI/UX Designer & Front-End Developer</p>
                         </div>
                     </div> <!-- single team -->
                 </div>
@@ -458,8 +485,8 @@
                             </div>
                         </div>
                         <div class="p-8">
-                            <h5 class="mb-1 text-xl font-bold text-gray-900">Fiona Smith</h5>
-                            <p>Business Development Manager</p>
+                            <h5 class="mb-1 text-xl font-bold text-gray-900">Muhammad Rivan bin Smith</h5>
+                            <p>System Analyst & Front-End Developer</p>
                         </div>
                     </div> <!-- single team -->
                 </div>
