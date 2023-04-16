@@ -124,7 +124,8 @@
                 <div class="justify-center row">
                     <div class="w-full lg:w-2/3">
                         <div class="text-center header-hero-image wow fadeIn" data-wow-duration="1.3s" data-wow-delay="1.4s">
-                            <img src="assets/images/layar hp basyir.svg" alt="hero" style="margin-left: 1px;">
+                            <img src="assets/images/Jumbotron.png" alt="hero" style="margin-left: 1px;">
+                            <!-- <img src="assets/images/layar hp basyir.svg" alt="hero" style="margin-left: 1px;"> -->
                         </div> <!-- header hero image -->
                     </div>
                 </div> <!-- row -->
@@ -270,7 +271,7 @@
                     <div class="w-full lg:w-1/2">
                         <div class="lg:mt-12 subscribe-content">
                             <h2 class="text-2xl font-bold sm:text-1xl subscribe-title">
-                                Waktu Solat di Ciamis 
+                                Waktu Solat di Bandung 
                             </h2>
                         </div>
                     </div>
