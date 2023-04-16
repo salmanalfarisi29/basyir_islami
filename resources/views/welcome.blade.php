@@ -69,7 +69,7 @@
                     <div class="w-full">
                         <nav class="flex items-center justify-between navbar navbar-expand-lg">
                             <a class="mr-4 navbar-brand" href="index.html">
-                                <img src="../assets/images/logo-2.svg" alt="Logo" width="120">
+                                <img src="./assets/images/logo-2.svg" alt="Logo" width="120">
                             </a>
                             <button class="block navbar-toggler focus:outline-none lg:hidden" type="button" data-toggle="collapse" data-target="#navbarOne" aria-controls="navbarOne" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="toggler-icon"></span>
@@ -95,13 +95,13 @@
                                         <a class="page-scroll" href="#team">Team</a>
                                     </li>
                                     <li class="nav-item">
-                                    <a class="main-btn gradient-btn" data-scroll-nav="0" href="http://127.0.0.1:8000/login" rel="nofollow">Login Admin</a>
+                                    <a class="main-btn gradient-btn" data-scroll-nav="0" href="http://127.0.0.1:8000/login" rel="nofollow">Login</a>
                                     </li>
                                 </ul>
                             </div> <!-- navbar collapse -->
                             
                             <div class="absolute right-0 hidden mt-2 mr-24 navbar-btn sm:inline-block lg:mt-0 lg:static lg:mr-0">
-                                <a class="main-btn gradient-btn" data-scroll-nav="0" href="http://127.0.0.1:8000/login" rel="nofollow">Login Admin</a>
+                                <a class="main-btn gradient-btn" data-scroll-nav="0" href="http://127.0.0.1:8000/login" rel="nofollow">Login</a>
                             </div>
                         </nav> <!-- navbar -->
                     </div>
@@ -114,8 +114,8 @@
                 <div class="justify-center row">
                     <div class="w-full lg:w-2/3">
                         <div class="pt-32 mb-12 text-center lg:pt-48 header-hero-content">
-                            <h3 class="text-4xl font-light leading-tight text-white header-sub-title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">Basyir - Booster your iman</h3>
-                            <h2 class="mb-3 text-4xl font-bold text-white header-title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.5s">To increase your productivity in worship</h2>
+                            <h3 class="text-4xl font-light leading-tight text-white header-sub-title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.2s">Basyir - Booster Your Iman</h3>
+                            <h2 class="mb-3 text-4xl font-bold text-white header-title wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.5s">Tingkatkan Produktivitas Kamu Dalam Beribadah</h2>
                             <p class="mb-8 text-white text wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="0.8s">UNDUH APLIKASI BASYIR DI PLAYSTORE</p>
                             <a href="#" class="main-btn gradient-btn gradient-btn-2 wow fadeInUp" data-wow-duration="1.3s" data-wow-delay="1.1s">Unduh Sekarang</a>
                         </div> <!-- header hero content -->
@@ -137,35 +137,44 @@
     
     <!--====== PERKENALAN BASYIR ======-->
     
-    <div class="pt-24 brand-area">
-        <div class="container">
-            <div class="row">
-                <div class="w-full">
-                    <div class="pb-10 text-center section-title">
-                        <div class="m-auto line"></div>
-                        <h3 class="title">Supported By</h3>
-                        <div class="items-center justify-center row lg:justify-between">
-                            <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
-                                <img src="assets/images/brand-1.png" alt="brand" style="width: 70px; height: auto;">
-                            </div> <!-- single logo -->
-                            <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.2s">
-                                <img src="assets/images/brand-2.png" alt="brand" style="width: 100px; height: auto;">
-                            </div> <!-- single logo -->
-                            <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.3s">
-                                <img src="assets/images/brand-3.png" alt="brand" style="width: 100px; height: auto;">
-                            </div> <!-- single logo -->
-                            <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.4s">
-                                <img src="assets/images/brand-4.png" alt="brand" style="width: 100px; height: auto;">
-                            </div> <!-- single logo -->
-                            <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s">
-                                <img src="assets/images/brand-5.png" alt="brand" style="width: 100px; height: auto;">
-                            </div> <!-- single logo -->
-                        </div> <!-- brand logo -->
-                    </div> <!-- section title -->
-                </div>
-            </div>   <!-- row -->
-        </div> <!-- container -->
-    </div>
+    <!-- <div class="pt-24 brand-area"> -->
+        <!-- <div class="container"> -->
+            <!-- <div class="row"> -->
+                <!-- <div class="w-full"> -->
+                    <!-- <div class="pb-10 text-center section-title"> -->
+                        <!-- <div class="m-auto line"></div> -->
+                        <!-- <h3 class="title">Supported By</h3> -->
+                        <!-- <div class="items-center justify-center row lg:justify-between"> -->
+                            <!-- <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s"> -->
+                                <!-- <img src="assets/images/brand-1.png" alt="brand" style="width: 70px; height: auto;"> -->
+                            <!-- </div>  -->
+                            <!-- single logo -->
+                            <!-- <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.2s"> -->
+                                <!-- <img src="assets/images/brand-2.png" alt="brand" style="width: 100px; height: auto;"> -->
+                            <!-- </div>  -->
+                            <!-- single logo -->
+                            <!-- <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.3s"> -->
+                                <!-- <img src="assets/images/brand-3.png" alt="brand" style="width: 100px; height: auto;"> -->
+                            <!-- </div>  -->
+                            <!-- single logo -->
+                            <!-- <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.4s"> -->
+                                <!-- <img src="assets/images/brand-4.png" alt="brand" style="width: 100px; height: auto;"> -->
+                            <!-- </div>  -->
+                            <!-- single logo -->
+                            <!-- <div class="single-logo hover:opacity-100 wow fadeIn" data-wow-duration="1.5s" data-wow-delay="0.5s"> -->
+                                <!-- <img src="assets/images/brand-5.png" alt="brand" style="width: 100px; height: auto;"> -->
+                            <!-- </div>  -->
+                            <!-- single logo -->
+                        <!-- </div>  -->
+                        <!-- brand logo -->
+                    <!-- </div>  -->
+                    <!-- section title -->
+                <!-- </div> -->
+            <!-- </div>    -->
+            <!-- row -->
+        <!-- </div>  -->
+        <!-- container -->
+    <!-- </div> -->
     
     <!--====== PERKENALAN BASYIR ENDS ======-->
     
@@ -190,7 +199,7 @@
                         </div>
                         <div class="mt-8 services-content">
                             <h4 class="mb-8 text-xl font-bold text-gray-900">POLITEKNIK NEGERI BANDUNG</h4>
-                            <p class="mb-8">Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.</p>
+                            <!-- <p class="mb-8">Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.</p> -->
                             <a class="duration-300 hover:text-theme-color" href="https://www.instagram.com/politekniknegeribandung/">Kunjungi di instagram <i class="ml-2 lni lni-chevron-right"></i></a>
                         </div>
                     </div>
@@ -203,12 +212,12 @@
                         </div>
                         <div class="mt-8 services-content">
                             <h4 class="mb-8 text-xl font-bold text-gray-900">TEKNIK KOMPUTER & INFORMATIKA POLBAN</h4>
-                            <p class="mb-8">Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.</p>
+                            <!-- <p class="mb-8">Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.</p> -->
                             <a class="duration-300 hover:text-theme-color" href="https://www.instagram.com/jtkpolban/">Kunjungi di instagram <i class="ml-2 lni lni-chevron-right"></i></a>
                         </div>
                     </div> 
-                <!-- ASSALAM -->
                 </div>
+                <!-- ASSALAM -->
                 <div class="w-full sm:w-2/3 lg:w-1/3">
                     <div class="mt-8 text-center single-services wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s">
                         <div class="services-icon">
@@ -216,7 +225,7 @@
                         </div>
                         <div class="mt-8 services-content">
                             <h4 class="mb-8 text-xl font-bold text-gray-900">UKM ASSALAM POLBAN</h4>
-                            <p class="mb-8">Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.</p>
+                            <!-- <p class="mb-8">Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.</p> -->
                             <a class="duration-300 hover:text-theme-color" href="https://www.instagram.com/assalampolban/">Kunjungi di instagram <i class="ml-2 lni lni-chevron-right"></i></a>
                         </div>
                     </div> 
@@ -229,12 +238,12 @@
                         </div>
                         <div class="mt-8 services-content">
                             <h4 class="mb-8 text-xl font-bold text-gray-900">PHM DKM Luqmanul Hakim POLBAN</h4>
-                            <p class="mb-8">Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.</p>
+                            <!-- <p class="mb-8">Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.</p> -->
                             <a class="duration-300 hover:text-theme-color" href="https://www.instagram.com/masjidlhpolban/">Kunjungi di instagram <i class="ml-2 lni lni-chevron-right"></i></a>
                         </div>
                     </div>
                 </div>
-                <!-- single services -->
+                <!-- Ma'had Luqmanul Hakim -->
                 <div class="w-full sm:w-2/3 lg:w-1/3">
                     <div class="mt-8 text-center single-services wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s">
                         <div class="services-icon">
@@ -242,7 +251,7 @@
                         </div>
                         <div class="mt-8 services-content">
                             <h4 class="mb-8 text-xl font-bold text-gray-900">Ma'had Luqmanul Hakim</h4>
-                            <p class="mb-8">Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.</p>
+                            <!-- <p class="mb-8">Lorem ipsum dolor sit amet,consetetur sadipscing elitr, seddiam nonu eirmod tempor invidunt labore.</p> -->
                             <a class="duration-300 hover:text-theme-color" href="https://www.instagram.com/mahad.lh/">Kunjungi di instagram <i class="ml-2 lni lni-chevron-right"></i></a>
                         </div>
                     </div> <!-- single services -->
